@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All component should render component properly 1`] = `
+<div
+  className="all-cities-table"
+>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Name 
+          <a
+            className="sort-button"
+            onClick={[Function]}
+          >
+            ▼
+          </a>
+        </th>
+        <th>
+          Population 
+          <a
+            className="sort-button"
+            onClick={[Function]}
+          >
+            ▼
+          </a>
+        </th>
+        <th>
+          Area 
+          <a
+            className="sort-button"
+            onClick={[Function]}
+          >
+            ▼
+          </a>
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
